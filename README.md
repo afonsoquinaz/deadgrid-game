@@ -62,7 +62,7 @@ DEADGRID 3 adapts to your phone's temperature automatically, but you can help it
 Your account is tied to your phone until you give it a password. Go to **SETTINGS → ACCOUNT → PROTECT THIS ACCOUNT** and set a password; you will get a one-time **recovery code** — write it down, it is shown only once. On the other device, open **SETTINGS → ACCOUNT → I ALREADY HAVE AN ACCOUNT** (or type your username at the start and choose to sign in) and enter your username and password. Forgot the password? Use the recovery code instead. Lost both? Email us from the address you want us to reply to, with your username.
 
 **How do I delete my account?**
-Email [support@deadgridgame.com](mailto:support@deadgridgame.com) with your username and ask for deletion. Details are in the [Privacy Policy](PRIVACY.md#en-10).
+In the game: **SETTINGS → DELETE ACCOUNT** (it asks you to type DELETE, and your password if the account has one). Your account and its data are deleted from our server and from your phone straight away. You can also email [support@deadgridgame.com](mailto:support@deadgridgame.com) with your username. Details are in the [Privacy Policy](PRIVACY.md#en-10).
 
 **Online play does not connect.**
 Duo and Ranked need a stable internet connection. Switch between Wi-Fi and mobile data, make sure both players have the latest version, and try again. If a match keeps failing, tell us via **SETTINGS → MESSAGE THE TEAM**.
@@ -88,7 +88,7 @@ Short version of our [Privacy Policy](PRIVACY.md) (English, Português, Deutsch,
 - **Ads** on iOS come from **Google AdMob**, which may collect device identifiers (the advertising identifier only if you allow tracking), IP address and coarse location, ad interactions and diagnostics. You control this in SETTINGS → AD PRIVACY CHOICES and in iOS Settings → Privacy & Security → Tracking.
 - **Notifications** are local reminders scheduled on your phone; no push server is used.
 - We do **not sell** your personal data. DEADGRID is not directed to children under 13.
-- To delete your account or ask about your data, email [support@deadgridgame.com](mailto:support@deadgridgame.com).
+- Delete your account in the game (SETTINGS → DELETE ACCOUNT) or by email; for anything else about your data, email [support@deadgridgame.com](mailto:support@deadgridgame.com).
 
 ---
 
